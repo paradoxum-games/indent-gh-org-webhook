@@ -1,0 +1,8 @@
+name = "indent-gh-org-admin"
+main = "src/worker.ts"
+compatibility_date = "2023-08-21"
+
+[vars]
+GITHUB_APP_ID = "<FILL ME IN>"
+GITHUB_APP_INSTALL_ID = "<FILL ME IN>"
+GITHUB_ORG = "<FILL ME IN>"
