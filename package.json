@@ -14,6 +14,6 @@
   },
   "dependencies": {
     "@indent/webhook": "^0.2.4",
-    "octokit": "^3.1.0"
+    "octokit": "^3.1.2"
   }
 }
