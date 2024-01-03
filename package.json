@@ -10,7 +10,7 @@
     "@cloudflare/workers-types": "^4.20230821.0",
     "@indent/types": "^0.2.4",
     "typescript": "^5.2.2",
-    "wrangler": "^3.6.0"
+    "wrangler": "^3.19.0"
   },
   "dependencies": {
     "@indent/webhook": "^0.2.4",
